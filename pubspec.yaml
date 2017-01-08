@@ -1,0 +1,5 @@
+name: dry_mountain_6808
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
